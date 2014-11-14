@@ -288,7 +288,7 @@
 				TargetAttributes = {
 					CCA92309193FD1FB001BE28C = {
 						CreatedOnToolsVersion = 6.0;
-						DevelopmentTeam = 35HM669KA6;
+						DevelopmentTeam = 64MGS82ZT3;
 					};
 					CCA9231D193FD1FB001BE28C = {
 						CreatedOnToolsVersion = 6.0;
